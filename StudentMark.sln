@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentMark", "StudentMark\StudentMark.csproj", "{479ECBDF-B090-45E9-A781-EE52A10CDCB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commons", "Commons\Commons.csproj", "{A6589295-CEDB-40F8-83C5-E2D60BC66863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{479ECBDF-B090-45E9-A781-EE52A10CDCB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479ECBDF-B090-45E9-A781-EE52A10CDCB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479ECBDF-B090-45E9-A781-EE52A10CDCB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479ECBDF-B090-45E9-A781-EE52A10CDCB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6589295-CEDB-40F8-83C5-E2D60BC66863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6589295-CEDB-40F8-83C5-E2D60BC66863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6589295-CEDB-40F8-83C5-E2D60BC66863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6589295-CEDB-40F8-83C5-E2D60BC66863}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C41B5BDE-6130-4988-944B-E5E1DA729C13}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+E:\C#Demo\SudentMark\StudentMark\Commons\bin\Debug\Commons.dll
+E:\C#Demo\SudentMark\StudentMark\Commons\bin\Debug\Commons.pdb
+E:\C#Demo\SudentMark\StudentMark\Commons\obj\Debug\Commons.csproj.CoreCompileInputs.cache
+E:\C#Demo\SudentMark\StudentMark\Commons\obj\Debug\Commons.dll
+E:\C#Demo\SudentMark\StudentMark\Commons\obj\Debug\Commons.pdb
+E:\C#Demo\SudentMark\StudentMark\Commons\obj\Debug\Commons.csprojResolveAssemblyReference.cache
